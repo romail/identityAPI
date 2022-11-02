@@ -1,0 +1,7 @@
+{
+  "Takoha.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\takoha_1.1\\Takoha\\Takoha\\src\\Takoha.Core",
+  "Takoha.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\takoha_1.1\\Takoha\\Takoha\\src\\Takoha.Infrastructure",
+  "Takoha.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\takoha_1.1\\Takoha\\Takoha\\src\\Takoha.SharedKernel",
+  "Takoha.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\takoha_1.1\\Takoha\\Takoha\\tests\\Takoha.UnitTests",
+  "Takoha.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\takoha_1.1\\Takoha\\Takoha\\src\\Takoha.Web"
+}

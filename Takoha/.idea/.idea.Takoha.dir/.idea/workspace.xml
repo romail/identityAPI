@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0348cc0-e8bc-469a-8de5-0defecaf88dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Takoha/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Takoha/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Takoha/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Takoha/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Booking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Events/NewItemAddedEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/WeekDay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Takoha.Core/TransactionAggregate/Transaction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Takoha.Core/VanueAggregate/LaneAvailablePeriod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/Takoha/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/Takoha/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/Takoha/xs/project-cache/Takoha.SharedKernel-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/Takoha/xs/project-cache/Takoha.SharedKernel-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/DefaultCoreModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/DefaultCoreModule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/Interfaces/IToDoItemSearchService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/Interfaces/IToDoItemSearchService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Events/NewItemAddedEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Events/ToDoItemCompletedEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Events/ToDoItemCompletedEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Handlers/ItemCompletedEmailNotificationHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Handlers/ItemCompletedEmailNotificationHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/PriorityStatus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Project.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/ProjectStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/BookingStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Specifications/IncompleteItemsSearchSpec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Specifications/IncompleteItemsSearchSpec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Specifications/IncompleteItemsSpec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Specifications/IncompleteItemsSpec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/Specifications/ProjectByIdWithItemsSpec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/BookingAggregate/Specifications/ProjectByIdWithItemsSpec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/ProjectAggregate/ToDoItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/Services/ToDoItemSearchService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/Takoha.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/Takoha.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Takoha.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Takoha.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/Takoha.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/Takoha.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/Config/ProjectConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/Config/BookingConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/Config/ToDoConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/Data/Config/ToDoConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/DefaultInfrastructureModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/DefaultInfrastructureModule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/StartupSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/StartupSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/Takoha.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/Takoha.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Debug/net6.0/Takoha.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Takoha.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Takoha.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Takoha.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/Takoha.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Debug/net6.0/Takoha.SharedKernel.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Takoha.SharedKernel.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Takoha.SharedKernel.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Takoha.SharedKernel.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/Takoha.SharedKernel.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.SharedKernel/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Api/ProjectsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Api/BookingController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/ApiModels/ProjectDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/ApiModels/BookingDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/ApiModels/ToDoItemDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/ApiModels/ToDoItemDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Controllers/ProjectController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Controllers/BookingController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Create.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Create.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Delete.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Delete.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/GetById.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/GetById.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/List.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/List.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/ListIncomplete.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/ListIncomplete.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Update.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Endpoints/ProjectEndpoints/Update.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Incomplete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Incomplete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Incomplete.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Incomplete.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Pages/ProjectDetails/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/SeedData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/ViewModels/ToDoItemViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/ViewModels/ToDoItemViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Debug/net6.0/Takoha.Web.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/Takoha.Web.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Takoha.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Takoha.Web/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/ControllerApis/ApiProjectsControllerList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/ControllerApis/ApiProjectsControllerList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/bin/Debug/net6.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Debug/net6.0/Takoha.FunctionalTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/Takoha.FunctionalTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.FunctionalTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/Data/BaseEfRepoTestFixture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/Data/BaseEfRepoTestFixture.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/Data/EfRepositoryAdd.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/Data/EfRepositoryDelete.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/Data/EfRepositoryUpdate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/bin/Debug/net6.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Debug/net6.0/Takoha.IntegrationTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/Takoha.IntegrationTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.IntegrationTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/Handlers/ItemCompletedEmailNotificationHandlerHandle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/ProjectConstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/ProjectConstructor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/Project_AddItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/Project_AddItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/ToDoItemMarkComplete.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/ProjectAggregate/ToDoItemMarkComplete.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/Specifications/IncompleteItemSpecificationsConstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/Core/Specifications/IncompleteItemSpecificationsConstructor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/Takoha.UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/Takoha.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/ToDoItemBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/ToDoItemBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/bin/Debug/net6.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Debug/net6.0/Takoha.UnitTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/Takoha.UnitTests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Takoha.UnitTests/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ga5JMya8KKcnMtwSFx8PUdUiP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0348cc0-e8bc-469a-8de5-0defecaf88dd" name="Changes" comment="" />
+      <created>1666613785856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666613785856</updated>
+      <workItem from="1666613796549" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

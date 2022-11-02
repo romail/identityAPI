@@ -1,0 +1,100 @@
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/proj/p291-takoha-backend/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.runtimeconfig.json
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.genruntimeconfig.cache
+C:/Users/dziav/OneDrive/Рабочий стол/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.runtimeconfig.json
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.genruntimeconfig.cache
+/Users/romandziavgo/Desktop/TakohaNew/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.runtimeconfig.json
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.genruntimeconfig.cache
+C:/takoha_1.1/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.runtimeconfig.json
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.genruntimeconfig.cache
+/Users/romandziavgo/Desktop/takoha_1.2/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.deps.json
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.runtimeconfig.json
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.dll
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/bin/Debug/net6.0/Takoha.SharedKernel.pdb
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.AssemblyReference.cache
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfoInputs.cache
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.AssemblyInfo.cs
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CoreCompileInputs.cache
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.csproj.CopyComplete
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/refint/Takoha.Core.dll
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.pdb
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/Takoha.Core.genruntimeconfig.cache
+/Users/romandziavgo/Desktop/takoha_1.3/Takoha/Takoha/src/Takoha.Core/obj/Debug/net6.0/ref/Takoha.Core.dll
